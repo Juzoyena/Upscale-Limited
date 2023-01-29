@@ -1,0 +1,6 @@
+body {
+    justify-content: center;
+    min-height: 100vh;
+    background-position: center;
+    background-image: url(/public/images/wipbg.png)
+}
