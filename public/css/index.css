@@ -1,0 +1,18 @@
+body {
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(/images/Webbg1.png);
+    background-position: center;
+  }
+
+.container {
+        display: grid; 
+        grid-auto-rows: auto;
+        gap: 100px 0px; 
+        width: 1200px; 
+      }
+
+.YTPreview {
+    grid-column: auto;
+}
