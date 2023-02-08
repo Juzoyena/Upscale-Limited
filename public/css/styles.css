@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;800;900&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;800;900&display=swap'); y
 
 
 * {
@@ -7,13 +7,3 @@
     padding: 0;
   }
 
-html {
-    --font-color: #fff;
-
-}
-
-.page-title {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    align-items: center;
-    justify-content: center;
-}
