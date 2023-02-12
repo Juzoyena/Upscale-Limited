@@ -1,27 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;800;900&display=swap');
 body {
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
     background-image: url(/images/Webbg1.png);
     background-position: center;
   }
 
-  .container {  
-    display: grid;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-    grid-auto-columns: 1fr;
-    gap: 19px 9px;
-    grid-auto-flow: row;
-    justify-content: center;
-    align-content: center;
-    justify-items: center;
-    align-items: center;
-    grid-template-areas:
-      ""
-      ""
-      ""
-      ""
-      "";
-    width: 1200px;
-  }
-  
+h1 {
+  color: aqua;
+  text-align: center;
+  font-family: Poppins;
+}
